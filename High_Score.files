@@ -1,0 +1,9 @@
+build/CMakeFiles/3.28.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+game.cpp
+game.h
+main.cpp
+qt-viewer/main.cpp
+qt-viewer/mainwindow.cpp
+qt-viewer/mainwindow.h
+score.cpp
+score.h
